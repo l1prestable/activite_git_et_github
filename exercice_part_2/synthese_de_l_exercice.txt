@@ -1,0 +1,14 @@
+Donc dans ce cours, j'ai bien appris à:
+
+- me connecter à git avec la console
+- me crée un compte sur github
+- crée un fichier et un dossier sur git
+- modifie un fichier sur git grace au logiciel nano, plus pratique pour moi 
+que vim
+- recupérer un repository sur github et l'editer dans git
+- faire un commit
+- voir l'historique d'un commit
+- revenir sur un commit précédant
+- envoyer mes modif sur github.
+
+Voila merci beaucoup
