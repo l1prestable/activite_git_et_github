@@ -1,0 +1,2 @@
+Bonjour à tous, voicci mon premier exercice sur github, cet exercice portera 
+sur l'utilisation des différentes commandes de git.
