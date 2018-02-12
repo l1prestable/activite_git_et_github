@@ -1,2 +1,38 @@
 Bonjour à tous, voici mon premier exercice sur github, cet exercice portera 
 sur l'utilisation des différentes commandes de git.
+
+MOT CLE GIT ET GITHUB
+
+LIGNE DE COMMANDE :
+
+ls = visualiser le contenu d'un dossier
+cat = visualser le contenu d'un fichier
+cd = se positionner dans un dossier
+touch = cree un fichier
+mkdir = cree un dossier
+nano + nom de ficher = edition du fichier
+
+CONNECTION A GIT:
+
+git config --global user.name "L1PRESTABLE"
+git config --global user.email nicolas@l1prestable.com
+
+git init = initialiser git dans le repertoir courant
+git status = voir le status de git
+git add + nom du fichier = ajoute le fichier à l'index de git sans commit
+git commit = cree un commit
+-m "" = ajoute un message au commit
+vim = permet la modification d'un fichier
+git log = permet de voir les différents modif avec heur date et autur
+
+POUR UNE MODIF DE FICHIER + COMMIT :
+git commi -am ""
+
+POUR GITHUB
+
+git checkout = revenir sur un ancien commit
+git checkou master = revenir sur le commit actuel
+git clone + lien = clonage en locale du code de github
+git push origin master = renvoie vers gihub
+git pull origin master = recupere les derrniers commit
+
